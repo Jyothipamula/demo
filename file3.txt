@@ -1,2 +1,6 @@
 hi this is new file creating by jyoti
+<<<<<<< HEAD
 welcome to Banglore
+=======
+welcome to Bangalore
+>>>>>>> 74848cbee8b9b9722ee0a69fcb457fb5385ec807
